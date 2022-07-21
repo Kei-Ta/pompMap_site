@@ -1,3 +1,9 @@
-## privacyPolicy
+---
+layout: default
+title: トップページ
+---
 
-あいう
+# トップページです
+
+- hoge
+- huga
