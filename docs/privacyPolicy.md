@@ -1,1 +1,3 @@
 ## privacyPolicy
+
+あいう
