@@ -1,9 +1,4 @@
----
-layout: default
-title: トップページ
----
-
-# トップページです
+# トップページです!
 
 - hoge
 - huga
